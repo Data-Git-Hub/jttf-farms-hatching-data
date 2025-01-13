@@ -1,8 +1,8 @@
 # jttf-farms-hatching-data
 
-#Data collected from JTTF Farms Hatchery Activities.
+# Data collected from JTTF Farms Hatchery Activities.
 
-#Data points include
+# Data points include
 # - Date-Time-Group
 # - Incubator Number
 # - Outside Temperature
